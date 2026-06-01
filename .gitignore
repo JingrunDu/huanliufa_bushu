@@ -1,0 +1,28 @@
+# ===== Python =====
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.ipynb_checkpoints/
+
+# ===== CUDA 子模块编译产物（在目标机器上重新编译，不纳入版本控制）=====
+submodules/*/build/
+**/*.so
+
+# ===== 训练数据与产物（体积大，运行时自行准备/生成）=====
+data/
+output/
+
+# ===== 日志 =====
+*.log
+nohup.out
+
+# ===== 敏感信息（严禁上传）=====
+*.env
+.aidata_config
+.aidata_credentials
+oss_config.json
+
+# ===== 系统文件 =====
+.DS_Store
+Thumbs.db
