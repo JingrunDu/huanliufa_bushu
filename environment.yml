@@ -1,19 +1,23 @@
 name: fastgs
 channels:
   - pytorch
+  - nvidia
   - conda-forge
   - defaults
 dependencies:
-  - cudatoolkit=11.6
+  - python=3.10
+  - pip
+  - pytorch=2.5.1
+  - torchvision=0.20.1
+  - torchaudio=2.5.1
+  - pytorch-cuda=12.4
   - plyfile
-  - python=3.7.13
-  - pip=22.3.1
-  - pytorch=1.12.1
-  - torchaudio=0.12.1
-  - torchvision=0.13.1
   - tqdm
   - websockets
   - pip:
+    - numpy==1.26.4
+    - pillow==11.1.0
+    - tensorboard==2.19.0
     - submodules/diff-gaussian-rasterization_fastgs
     - submodules/simple-knn
     - submodules/fused-ssim
