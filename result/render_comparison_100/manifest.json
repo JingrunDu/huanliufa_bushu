@@ -1,0 +1,1011 @@
+{
+  "model": "/data/oss_bucket_0/beifen/data/3dgs_bushu/huanliufa_20260922_051004/point_cloud/iteration_665000/point_cloud.ply",
+  "gaussians": 3273550,
+  "selection": "Uniform indices in filename order, per image parent directory; training views, not held-out evaluation",
+  "mult": 0.6,
+  "background": "black",
+  "metrics": "Unweighted RGB PSNR/L1 over non-person hard-mask pixels; render clamped [0,1]",
+  "mean_psnr": 27.472331466578886,
+  "views": [
+    {
+      "image": "L2PRO/camera_0/1778471306.866887_1.jpg",
+      "colmap_image_id": 1,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 0.920767994133574,
+      "valid_psnr": 26.274534497903893,
+      "valid_l1": 0.027445057407021523,
+      "comparison": "comparison/00_camera_0_1778471306.866887_1.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778471413.300927_0.jpg",
+      "colmap_image_id": 865,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 0.7553925992779783,
+      "valid_psnr": 26.46297744204744,
+      "valid_l1": 0.030383862555027008,
+      "comparison": "comparison/01_camera_0_1778471413.300927_0.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778471446.480387_0.jpg",
+      "colmap_image_id": 1340,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 0.9653471908844765,
+      "valid_psnr": 26.561972005304977,
+      "valid_l1": 0.028955353423953056,
+      "comparison": "comparison/02_camera_0_1778471446.480387_0.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778471498.148401_0.jpg",
+      "colmap_image_id": 2065,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 0.7004103677797834,
+      "valid_psnr": 24.912451392980266,
+      "valid_l1": 0.03543807938694954,
+      "comparison": "comparison/03_camera_0_1778471498.148401_0.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778471562.208772_1.jpg",
+      "colmap_image_id": 3026,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 1.0,
+      "valid_psnr": 30.044282505799828,
+      "valid_l1": 0.020128900185227394,
+      "comparison": "comparison/04_camera_0_1778471562.208772_1.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778471647.555978_3.jpg",
+      "colmap_image_id": 4293,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 1.0,
+      "valid_psnr": 25.884992845040273,
+      "valid_l1": 0.034566543996334076,
+      "comparison": "comparison/05_camera_0_1778471647.555978_3.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778471731.604002_1.jpg",
+      "colmap_image_id": 5556,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 1.0,
+      "valid_psnr": 23.342031259671316,
+      "valid_l1": 0.04275998845696449,
+      "comparison": "comparison/06_camera_0_1778471731.604002_1.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778471777.275760_3.jpg",
+      "colmap_image_id": 6193,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 1.0,
+      "valid_psnr": 25.924710141826374,
+      "valid_l1": 0.03258178383111954,
+      "comparison": "comparison/07_camera_0_1778471777.275760_3.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778471853.028918_4.jpg",
+      "colmap_image_id": 7324,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 0.9009452160493827,
+      "valid_psnr": 28.327364205605953,
+      "valid_l1": 0.02572210133075714,
+      "comparison": "comparison/08_camera_0_1778471853.028918_4.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778471919.387879_4.jpg",
+      "colmap_image_id": 8314,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 0.8640007716049383,
+      "valid_psnr": 29.90323487389258,
+      "valid_l1": 0.02128366380929947,
+      "comparison": "comparison/09_camera_0_1778471919.387879_4.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778471995.240991_2.jpg",
+      "colmap_image_id": 9417,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 1.0,
+      "valid_psnr": 26.059312606497713,
+      "valid_l1": 0.030444933101534843,
+      "comparison": "comparison/10_camera_0_1778471995.240991_2.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778472049.307560_4.jpg",
+      "colmap_image_id": 10224,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 0.8835686728395061,
+      "valid_psnr": 30.7083203030055,
+      "valid_l1": 0.017447322607040405,
+      "comparison": "comparison/11_camera_0_1778472049.307560_4.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778472102.974381_1.jpg",
+      "colmap_image_id": 10996,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 0.9912384363718412,
+      "valid_psnr": 25.071937787680657,
+      "valid_l1": 0.037664808332920074,
+      "comparison": "comparison/12_camera_0_1778472102.974381_1.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778472185.023657_0.jpg",
+      "colmap_image_id": 12210,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 0.9102182987364621,
+      "valid_psnr": 26.98201416147503,
+      "valid_l1": 0.027294667437672615,
+      "comparison": "comparison/13_camera_0_1778472185.023657_0.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778472241.988438_0.jpg",
+      "colmap_image_id": 13055,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 1.0,
+      "valid_psnr": 24.49851519702254,
+      "valid_l1": 0.033925145864486694,
+      "comparison": "comparison/14_camera_0_1778472241.988438_0.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778472303.450440_1.jpg",
+      "colmap_image_id": 13941,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 1.0,
+      "valid_psnr": 23.52876978389087,
+      "valid_l1": 0.039975475519895554,
+      "comparison": "comparison/15_camera_0_1778472303.450440_1.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778472374.806326_4.jpg",
+      "colmap_image_id": 15009,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 0.7944637345679012,
+      "valid_psnr": 26.03963630869299,
+      "valid_l1": 0.027881858870387077,
+      "comparison": "comparison/16_camera_0_1778472374.806326_4.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778472434.269561_4.jpg",
+      "colmap_image_id": 15819,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 0.8282484567901235,
+      "valid_psnr": 26.111181630702177,
+      "valid_l1": 0.030357252806425095,
+      "comparison": "comparison/17_camera_0_1778472434.269561_4.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778472500.728481_3.jpg",
+      "colmap_image_id": 16763,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 1.0,
+      "valid_psnr": 26.94502933188525,
+      "valid_l1": 0.02983657829463482,
+      "comparison": "comparison/18_camera_0_1778472500.728481_3.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778472547.099807_4.jpg",
+      "colmap_image_id": 17454,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 0.8979861111111112,
+      "valid_psnr": 29.416630884956113,
+      "valid_l1": 0.02148633636534214,
+      "comparison": "comparison/19_camera_0_1778472547.099807_4.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778472604.664214_4.jpg",
+      "colmap_image_id": 18294,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 0.8737114197530864,
+      "valid_psnr": 28.125320166108413,
+      "valid_l1": 0.02177424542605877,
+      "comparison": "comparison/20_camera_0_1778472604.664214_4.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778472674.720910_3.jpg",
+      "colmap_image_id": 19293,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 1.0,
+      "valid_psnr": 25.292446838376748,
+      "valid_l1": 0.03660798817873001,
+      "comparison": "comparison/21_camera_0_1778472674.720910_3.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778472744.577720_3.jpg",
+      "colmap_image_id": 20333,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 1.0,
+      "valid_psnr": 27.252791924125333,
+      "valid_l1": 0.028788065537810326,
+      "comparison": "comparison/22_camera_0_1778472744.577720_3.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778472813.635028_1.jpg",
+      "colmap_image_id": 21366,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 1.0,
+      "valid_psnr": 25.03310371912585,
+      "valid_l1": 0.03488706424832344,
+      "comparison": "comparison/23_camera_0_1778472813.635028_1.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778472888.188938_0.jpg",
+      "colmap_image_id": 22475,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 0.758169280234657,
+      "valid_psnr": 25.4630982661158,
+      "valid_l1": 0.03576517105102539,
+      "comparison": "comparison/24_camera_0_1778472888.188938_0.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778472991.225231_4.jpg",
+      "colmap_image_id": 23779,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 1.0,
+      "valid_psnr": 27.198621786392444,
+      "valid_l1": 0.02034824714064598,
+      "comparison": "comparison/25_camera_0_1778472991.225231_4.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778473055.985193_0.jpg",
+      "colmap_image_id": 24720,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 1.0,
+      "valid_psnr": 22.45477739340258,
+      "valid_l1": 0.043941568583250046,
+      "comparison": "comparison/26_camera_0_1778473055.985193_0.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778473114.449049_4.jpg",
+      "colmap_image_id": 25594,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 1.0,
+      "valid_psnr": 28.67579913946129,
+      "valid_l1": 0.025248689576983452,
+      "comparison": "comparison/27_camera_0_1778473114.449049_4.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778473192.200984_2.jpg",
+      "colmap_image_id": 26697,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 1.0,
+      "valid_psnr": 28.990010012337105,
+      "valid_l1": 0.023635488003492355,
+      "comparison": "comparison/28_camera_0_1778473192.200984_2.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778473239.771572_2.jpg",
+      "colmap_image_id": 27407,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 1.0,
+      "valid_psnr": 25.60568666241357,
+      "valid_l1": 0.03346541151404381,
+      "comparison": "comparison/29_camera_0_1778473239.771572_2.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778473298.235431_3.jpg",
+      "colmap_image_id": 28278,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 1.0,
+      "valid_psnr": 27.32438599061571,
+      "valid_l1": 0.029181120917201042,
+      "comparison": "comparison/30_camera_0_1778473298.235431_3.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778473365.493853_4.jpg",
+      "colmap_image_id": 29274,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 1.0,
+      "valid_psnr": 30.614488647739062,
+      "valid_l1": 0.019901784136891365,
+      "comparison": "comparison/31_camera_0_1778473365.493853_4.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778473408.267408_4.jpg",
+      "colmap_image_id": 29909,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 0.9438966049382717,
+      "valid_psnr": 30.259968613120588,
+      "valid_l1": 0.017335833981633186,
+      "comparison": "comparison/32_camera_0_1778473408.267408_4.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778473462.833676_1.jpg",
+      "colmap_image_id": 30721,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 1.0,
+      "valid_psnr": 28.86466091327589,
+      "valid_l1": 0.023319710046052933,
+      "comparison": "comparison/33_camera_0_1778473462.833676_1.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778473571.466517_0.jpg",
+      "colmap_image_id": 32175,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 1.0,
+      "valid_psnr": 26.719370767853256,
+      "valid_l1": 0.027015630155801773,
+      "comparison": "comparison/34_camera_0_1778473571.466517_0.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778473647.919248_0.jpg",
+      "colmap_image_id": 33290,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 1.0,
+      "valid_psnr": 28.7824887288797,
+      "valid_l1": 0.021591991186141968,
+      "comparison": "comparison/35_camera_0_1778473647.919248_0.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778473724.471923_0.jpg",
+      "colmap_image_id": 34375,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 0.9928093975631769,
+      "valid_psnr": 23.84059617800579,
+      "valid_l1": 0.03772163763642311,
+      "comparison": "comparison/36_camera_0_1778473724.471923_0.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778473780.137507_4.jpg",
+      "colmap_image_id": 35209,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 0.9621064814814815,
+      "valid_psnr": 27.282193839625673,
+      "valid_l1": 0.022283418104052544,
+      "comparison": "comparison/37_camera_0_1778473780.137507_4.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778473835.803098_3.jpg",
+      "colmap_image_id": 36023,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 1.0,
+      "valid_psnr": 28.150900304235865,
+      "valid_l1": 0.02577740140259266,
+      "comparison": "comparison/38_camera_0_1778473835.803098_3.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778473909.557500_3.jpg",
+      "colmap_image_id": 37123,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 1.0,
+      "valid_psnr": 26.426495607064382,
+      "valid_l1": 0.029410837218165398,
+      "comparison": "comparison/39_camera_0_1778473909.557500_3.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778473965.522906_0.jpg",
+      "colmap_image_id": 37945,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 0.9645772224729242,
+      "valid_psnr": 27.16749212065774,
+      "valid_l1": 0.025487106293439865,
+      "comparison": "comparison/40_camera_0_1778473965.522906_0.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778474013.093516_2.jpg",
+      "colmap_image_id": 38662,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 1.0,
+      "valid_psnr": 25.68068879194069,
+      "valid_l1": 0.03404618054628372,
+      "comparison": "comparison/41_camera_0_1778474013.093516_2.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778474090.545621_0.jpg",
+      "colmap_image_id": 39820,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 0.9569917644404332,
+      "valid_psnr": 23.815420312104077,
+      "valid_l1": 0.031333643943071365,
+      "comparison": "comparison/42_camera_0_1778474090.545621_0.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778474143.213063_3.jpg",
+      "colmap_image_id": 40573,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 1.0,
+      "valid_psnr": 26.022297490882877,
+      "valid_l1": 0.03480368107557297,
+      "comparison": "comparison/43_camera_0_1778474143.213063_3.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778474197.179695_2.jpg",
+      "colmap_image_id": 41277,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 1.0,
+      "valid_psnr": 24.77024334313423,
+      "valid_l1": 0.03956875577569008,
+      "comparison": "comparison/44_camera_0_1778474197.179695_2.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778474267.736077_4.jpg",
+      "colmap_image_id": 42069,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 1.0,
+      "valid_psnr": 27.645401505126923,
+      "valid_l1": 0.025847643613815308,
+      "comparison": "comparison/45_camera_0_1778474267.736077_4.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778474301.914945_4.jpg",
+      "colmap_image_id": 42534,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 1.0,
+      "valid_psnr": 29.286222775929037,
+      "valid_l1": 0.022151947021484375,
+      "comparison": "comparison/46_camera_0_1778474301.914945_4.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778474361.278242_1.jpg",
+      "colmap_image_id": 43276,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 1.0,
+      "valid_psnr": 25.137018599041685,
+      "valid_l1": 0.03861653432250023,
+      "comparison": "comparison/47_camera_0_1778474361.278242_1.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778474407.049942_3.jpg",
+      "colmap_image_id": 43858,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 1.0,
+      "valid_psnr": 25.901575747959154,
+      "valid_l1": 0.03659594804048538,
+      "comparison": "comparison/48_camera_0_1778474407.049942_3.jpg"
+    },
+    {
+      "image": "L2PRO/camera_0/1778474525.376784_4.jpg",
+      "colmap_image_id": 45174,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 0.9387962962962964,
+      "valid_psnr": 30.836638864877507,
+      "valid_l1": 0.019904449582099915,
+      "comparison": "comparison/49_camera_0_1778474525.376784_4.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778471345.742787_1.jpg",
+      "colmap_image_id": 45196,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 1.0,
+      "valid_psnr": 27.384284219717664,
+      "valid_l1": 0.030059274286031723,
+      "comparison": "comparison/50_camera_1_1778471345.742787_1.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778471423.794429_4.jpg",
+      "colmap_image_id": 46199,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 0.7458989197530864,
+      "valid_psnr": 32.909207627063985,
+      "valid_l1": 0.015461822971701622,
+      "comparison": "comparison/51_camera_1_1778471423.794429_4.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778471460.371792_0.jpg",
+      "colmap_image_id": 46715,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 1.0,
+      "valid_psnr": 26.130434609462654,
+      "valid_l1": 0.029772842302918434,
+      "comparison": "comparison/52_camera_1_1778471460.371792_0.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778471504.544447_2.jpg",
+      "colmap_image_id": 47337,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 0.8880654896209387,
+      "valid_psnr": 26.732444041152057,
+      "valid_l1": 0.029133809730410576,
+      "comparison": "comparison/53_camera_1_1778471504.544447_2.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778471561.609140_1.jpg",
+      "colmap_image_id": 48196,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 1.0,
+      "valid_psnr": 25.320493000541198,
+      "valid_l1": 0.03496598079800606,
+      "comparison": "comparison/54_camera_1_1778471561.609140_1.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778471637.362284_4.jpg",
+      "colmap_image_id": 49324,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 0.8968171296296297,
+      "valid_psnr": 29.433417773324898,
+      "valid_l1": 0.01657724753022194,
+      "comparison": "comparison/55_camera_1_1778471637.362284_4.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778471734.901961_1.jpg",
+      "colmap_image_id": 50786,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 1.0,
+      "valid_psnr": 28.576976072314206,
+      "valid_l1": 0.023022964596748352,
+      "comparison": "comparison/56_camera_1_1778471734.901961_1.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778471788.968527_2.jpg",
+      "colmap_image_id": 51547,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 0.8813994810469314,
+      "valid_psnr": 27.448302606865127,
+      "valid_l1": 0.026816003024578094,
+      "comparison": "comparison/57_camera_1_1778471788.968527_2.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778471881.411367_3.jpg",
+      "colmap_image_id": 52928,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 1.0,
+      "valid_psnr": 29.310680892171348,
+      "valid_l1": 0.022290345281362534,
+      "comparison": "comparison/58_camera_1_1778471881.411367_3.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778471972.355136_3.jpg",
+      "colmap_image_id": 54258,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 1.0,
+      "valid_psnr": 28.477376164415347,
+      "valid_l1": 0.02478429302573204,
+      "comparison": "comparison/59_camera_1_1778471972.355136_3.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778472038.814042_1.jpg",
+      "colmap_image_id": 55241,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 1.0,
+      "valid_psnr": 24.242999344715777,
+      "valid_l1": 0.03905500844120979,
+      "comparison": "comparison/60_camera_1_1778472038.814042_1.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778472076.990448_3.jpg",
+      "colmap_image_id": 55808,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 1.0,
+      "valid_psnr": 27.91943424879712,
+      "valid_l1": 0.025050565600395203,
+      "comparison": "comparison/61_camera_1_1778472076.990448_3.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778472174.530145_0.jpg",
+      "colmap_image_id": 57240,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 0.9943465139891696,
+      "valid_psnr": 26.741950737216126,
+      "valid_l1": 0.026430189609527588,
+      "comparison": "comparison/62_camera_1_1778472174.530145_0.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778472241.088995_3.jpg",
+      "colmap_image_id": 58223,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 0.9879938271604938,
+      "valid_psnr": 27.569034672930663,
+      "valid_l1": 0.027168456465005875,
+      "comparison": "comparison/63_camera_1_1778472241.088995_3.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778472287.760141_3.jpg",
+      "colmap_image_id": 58883,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 1.0,
+      "valid_psnr": 26.392882936875193,
+      "valid_l1": 0.03103877231478691,
+      "comparison": "comparison/64_camera_1_1778472287.760141_3.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778472383.301074_2.jpg",
+      "colmap_image_id": 60312,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 0.8919689192238267,
+      "valid_psnr": 28.141701799255898,
+      "valid_l1": 0.025177057832479477,
+      "comparison": "comparison/65_camera_1_1778472383.301074_2.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778472444.063506_1.jpg",
+      "colmap_image_id": 61106,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 1.0,
+      "valid_psnr": 27.121486032824713,
+      "valid_l1": 0.02538813278079033,
+      "comparison": "comparison/66_camera_1_1778472444.063506_1.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778472491.734035_2.jpg",
+      "colmap_image_id": 61807,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 0.907973262635379,
+      "valid_psnr": 24.522097278727955,
+      "valid_l1": 0.040021464228630066,
+      "comparison": "comparison/67_camera_1_1778472491.734035_2.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778472552.396542_2.jpg",
+      "colmap_image_id": 62712,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 0.8495050203068593,
+      "valid_psnr": 25.394723364288513,
+      "valid_l1": 0.03582601249217987,
+      "comparison": "comparison/68_camera_1_1778472552.396542_2.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778472629.848649_4.jpg",
+      "colmap_image_id": 63844,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 0.9970910493827161,
+      "valid_psnr": 32.45618094744042,
+      "valid_l1": 0.014799791388213634,
+      "comparison": "comparison/69_camera_1_1778472629.848649_4.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778472701.704231_4.jpg",
+      "colmap_image_id": 64869,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 0.8445254629629629,
+      "valid_psnr": 30.987959964828665,
+      "valid_l1": 0.018774375319480896,
+      "comparison": "comparison/70_camera_1_1778472701.704231_4.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778472749.574632_1.jpg",
+      "colmap_image_id": 65586,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 1.0,
+      "valid_psnr": 29.579523429496625,
+      "valid_l1": 0.020791711285710335,
+      "comparison": "comparison/71_camera_1_1778472749.574632_1.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778472809.537566_2.jpg",
+      "colmap_image_id": 66482,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 0.8449853339350181,
+      "valid_psnr": 26.530511352447142,
+      "valid_l1": 0.031289711594581604,
+      "comparison": "comparison/72_camera_1_1778472809.537566_2.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778472873.897774_3.jpg",
+      "colmap_image_id": 67443,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 1.0,
+      "valid_psnr": 31.33695252973009,
+      "valid_l1": 0.0177167821675539,
+      "comparison": "comparison/73_camera_1_1778472873.897774_3.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778472931.062427_4.jpg",
+      "colmap_image_id": 68299,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 0.8109837962962962,
+      "valid_psnr": 33.14087597564113,
+      "valid_l1": 0.013126315549015999,
+      "comparison": "comparison/74_camera_1_1778472931.062427_4.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778473016.809414_3.jpg",
+      "colmap_image_id": 69328,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 1.0,
+      "valid_psnr": 28.708351321986,
+      "valid_l1": 0.02367471344769001,
+      "comparison": "comparison/75_camera_1_1778473016.809414_3.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778473086.066594_3.jpg",
+      "colmap_image_id": 70348,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 1.0,
+      "valid_psnr": 28.27092590052576,
+      "valid_l1": 0.027181977406144142,
+      "comparison": "comparison/76_camera_1_1778473086.066594_3.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778473154.224458_4.jpg",
+      "colmap_image_id": 71354,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 1.0,
+      "valid_psnr": 29.392695739518913,
+      "valid_l1": 0.018210843205451965,
+      "comparison": "comparison/77_camera_1_1778473154.224458_4.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778473223.881396_3.jpg",
+      "colmap_image_id": 72353,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 1.0,
+      "valid_psnr": 28.11300118781002,
+      "valid_l1": 0.026778094470500946,
+      "comparison": "comparison/78_camera_1_1778473223.881396_3.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778473283.844326_0.jpg",
+      "colmap_image_id": 73240,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 1.0,
+      "valid_psnr": 22.771548807810493,
+      "valid_l1": 0.04509834945201874,
+      "comparison": "comparison/79_camera_1_1778473283.844326_0.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778473325.618505_3.jpg",
+      "colmap_image_id": 73868,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 1.0,
+      "valid_psnr": 30.132132836874163,
+      "valid_l1": 0.021184787154197693,
+      "comparison": "comparison/80_camera_1_1778473325.618505_3.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778473378.885574_4.jpg",
+      "colmap_image_id": 74654,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 0.9196604938271605,
+      "valid_psnr": 27.879670883595693,
+      "valid_l1": 0.024779969826340675,
+      "comparison": "comparison/81_camera_1_1778473378.885574_4.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778473438.748567_3.jpg",
+      "colmap_image_id": 75543,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 1.0,
+      "valid_psnr": 27.18216818959513,
+      "valid_l1": 0.029182935133576393,
+      "comparison": "comparison/82_camera_1_1778473438.748567_3.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778473536.088392_4.jpg",
+      "colmap_image_id": 76864,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 1.0,
+      "valid_psnr": 25.562903321058474,
+      "valid_l1": 0.02848071977496147,
+      "comparison": "comparison/83_camera_1_1778473536.088392_4.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778473593.752736_4.jpg",
+      "colmap_image_id": 77659,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 1.0,
+      "valid_psnr": 28.619410463127963,
+      "valid_l1": 0.019224217161536217,
+      "comparison": "comparison/84_camera_1_1778473593.752736_4.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778473669.106151_4.jpg",
+      "colmap_image_id": 78764,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 0.9715586419753086,
+      "valid_psnr": 31.173321654165555,
+      "valid_l1": 0.014337875880300999,
+      "comparison": "comparison/85_camera_1_1778473669.106151_4.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778473742.560736_4.jpg",
+      "colmap_image_id": 79829,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 1.0,
+      "valid_psnr": 29.08056725444608,
+      "valid_l1": 0.01753205806016922,
+      "comparison": "comparison/86_camera_1_1778473742.560736_4.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778473800.325029_4.jpg",
+      "colmap_image_id": 80679,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 1.0,
+      "valid_psnr": 33.427559915420666,
+      "valid_l1": 0.013122959062457085,
+      "comparison": "comparison/87_camera_1_1778473800.325029_4.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778473840.899945_4.jpg",
+      "colmap_image_id": 81279,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 0.9719097222222223,
+      "valid_psnr": 26.864180936311627,
+      "valid_l1": 0.02498062141239643,
+      "comparison": "comparison/88_camera_1_1778473840.899945_4.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778473905.260157_2.jpg",
+      "colmap_image_id": 82237,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 0.9641189079422383,
+      "valid_psnr": 29.60133231393221,
+      "valid_l1": 0.019720451906323433,
+      "comparison": "comparison/89_camera_1_1778473905.260157_2.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778473962.924511_2.jpg",
+      "colmap_image_id": 83092,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 1.0,
+      "valid_psnr": 25.242825578180174,
+      "valid_l1": 0.03492319956421852,
+      "comparison": "comparison/90_camera_1_1778473962.924511_2.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778474014.292751_1.jpg",
+      "colmap_image_id": 83861,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 1.0,
+      "valid_psnr": 27.36311915069078,
+      "valid_l1": 0.02728327177464962,
+      "comparison": "comparison/91_camera_1_1778474014.292751_1.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778474085.448769_4.jpg",
+      "colmap_image_id": 84929,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 0.9927006172839506,
+      "valid_psnr": 29.356813361144628,
+      "valid_l1": 0.01812969334423542,
+      "comparison": "comparison/92_camera_1_1778474085.448769_4.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778474157.604166_4.jpg",
+      "colmap_image_id": 85924,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 0.8886381172839506,
+      "valid_psnr": 29.75358422023887,
+      "valid_l1": 0.02287564054131508,
+      "comparison": "comparison/93_camera_1_1778474157.604166_4.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778474216.767587_3.jpg",
+      "colmap_image_id": 86728,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 1.0,
+      "valid_psnr": 29.02492684447294,
+      "valid_l1": 0.024313146248459816,
+      "comparison": "comparison/94_camera_1_1778474216.767587_3.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778474274.132121_4.jpg",
+      "colmap_image_id": 87344,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 0.5820486111111111,
+      "valid_psnr": 28.206861901422833,
+      "valid_l1": 0.0226451363414526,
+      "comparison": "comparison/95_camera_1_1778474274.132121_4.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778474312.308521_3.jpg",
+      "colmap_image_id": 87873,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 1.0,
+      "valid_psnr": 26.252196770672505,
+      "valid_l1": 0.03166523203253746,
+      "comparison": "comparison/96_camera_1_1778474312.308521_3.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778474378.567545_3.jpg",
+      "colmap_image_id": 88653,
+      "width": 640,
+      "height": 405,
+      "valid_fraction": 1.0,
+      "valid_psnr": 26.999118986347064,
+      "valid_l1": 0.03210482373833656,
+      "comparison": "comparison/97_camera_1_1778474378.567545_3.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778474429.036350_1.jpg",
+      "colmap_image_id": 89316,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 1.0,
+      "valid_psnr": 24.203400425732404,
+      "valid_l1": 0.04087831452488899,
+      "comparison": "comparison/98_camera_1_1778474429.036350_1.jpg"
+    },
+    {
+      "image": "L2PRO/camera_1/1778474525.376784_0.jpg",
+      "colmap_image_id": 90350,
+      "width": 640,
+      "height": 1108,
+      "valid_fraction": 1.0,
+      "valid_psnr": 28.628492854752118,
+      "valid_l1": 0.01889565773308277,
+      "comparison": "comparison/99_camera_1_1778474525.376784_0.jpg"
+    }
+  ]
+}

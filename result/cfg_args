@@ -1,0 +1,1 @@
+Namespace(sh_degree=3, source_path='/data/oss_bucket_0/beifen/home/dujingrun.djr/code/3dgs/FastGS/data/perspective', model_path='/data/oss_bucket_0/beifen/data/3dgs_bushu/huanliufa_20260922_051004', images='images', resolution=1, white_background=False, data_device='cpu', eval=False, use_semantic_weight=True, semantic_equipment_weight=3.0, semantic_background_weight=0.5)
